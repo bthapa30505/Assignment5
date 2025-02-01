@@ -15,7 +15,7 @@ This repository contains the follwing 4 files
 In order to run the quick sort implemenations, following steps can be performed.
   1) Clone the repository to your local system.
   2) Open the project directory on your terminal
-  3 Use the follwing commands to run the python files
+  3) Use the follwing commands to run the python files
     a) python3 deterministic_quicksort.py
     b) python3 randomized_quicksort.py   
 
